@@ -1,10 +1,11 @@
 # 👋 Hi there, I'm Tiexing Wang!
 
-**Deep Learning Engineer & Researcher** passionate about **Transformer architectures**, **attention mechanisms**, and **PyTorch implementations from scratch**.  
-I build neural networks step by step to understand them from first principles, with a focus on **educational clarity**, **clean code**, and **mathematical correctness**.
+**Deep Learning Scientist & Applied Researcher** with a strong interest in exploring **advanced neural architectures** and understanding how modern models really work under the hood.
+I enjoy building models such as **Transformers** and **attention mechanisms** from scratch in **PyTorch**, combining rigorous scientific thinking with hands-on coding.
 
-🔬 **Research Focus**: Transformer implementation, attention mechanisms, deep learning fundamentals, and physics-informed AI.  
-🌍 **Current Roles**: ML Research Data Scientist @ Shearwater GeoServices
+🔬 **Research Focus**: Deep learning fundamentals, Transformer architectures, attention mechanisms, and physics-informed AI.
+💻 **Passion**: Writing clean, educational code to dissect state-of-the-art models and clarify their underlying mathematics.
+🌍 **Current Role**: ML Research Data Scientist @ Shearwater GeoServices
 
 ---
 
